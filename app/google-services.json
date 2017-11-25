@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637806982481",
+    "firebase_url": "https://kecikpush-fcc38.firebaseio.com",
+    "project_id": "kecikpush-fcc38",
+    "storage_bucket": "kecikpush-fcc38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637806982481:android:7e5dfd55ecda8f2c",
+        "android_client_info": {
+          "package_name": "com.example.akmal.kecik_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637806982481-1bbs679n3l2mvmev0getuf31ub9hnjer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpVGT9Y3HN6rOkRWzVXtg-mn6jNlNpBzw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
